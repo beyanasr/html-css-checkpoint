@@ -1,0 +1,34 @@
+*{margin: 0;
+    padding: 0;
+}
+header {
+	background: #0f054a;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	font-family: 'roboto';
+	margin-bottom: 20px;
+}
+h1{ color: blueviolet;}
+body{ 
+	background-color: beige;
+	font-family: 'roboto';
+
+}
+.images img{
+	width: 5%;
+}
+.first-section{
+	margin-top: 10px;
+	margin-bottom: 15px;
+	
+}
+.first-section h1{
+	color: chocolate;
+	padding: 100px;
+	margin: 100px;
+}
+.second-section{
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
